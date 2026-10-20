@@ -18,8 +18,8 @@ This folder contains different projects completed during the course.
   * 📁 [Lab Exercises](./Labs)
 This folder contains practical exercises completed throughout the course.
 #### Past Exams  
-    * 📁[Past Exams](./Past%20Exams)
-  Collection of exam papers from previous academic years, used for practice and revision.
+   * 📁[Past Exams](./Past%20Exams)
+Collection of exam papers from previous academic years, used for practice and revision.
   
 #### ClassWork  
   * 📁 [Classwork](./ClassWork)
