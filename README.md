@@ -25,30 +25,6 @@ Collection of exam papers from previous academic years, used for practice and re
   * 📁 [Classwork](./ClassWork)
 This folder contains practical exercises completed in class.
 
-
-### 🧩 Main Concepts
-
-Throughout these projects, I worked with fundamental Object-Oriented Programming concepts, including:
-
-* Classes and objects
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-* Constructors and methods
-* Object relationships
-* Collections
-* Exception handling
-* File handling
-* Problem solving and software design
-
-### 🛠️ Technologies
-
-* Java
-* Object-Oriented Programming
-* Git & GitHub
-* Eclipse
-
 ### 👩‍💻 Author
 
 María Bonafonte Sánchez
