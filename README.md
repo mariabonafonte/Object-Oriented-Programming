@@ -10,11 +10,21 @@ Repository containing the projects, practical assignments, and exercises develop
 * Course: Object-Oriented Programming
 * Academic Year: 2024/2025
 
-### 📂 Projects
+### 📂 CourseWork 
+#### Projects 
+  * 📁 [Projects](./Projects)
+This folder contains different projects completed during the course.
+#### Lab Exercises
+  * 📁 [Lab Exercises](./Labs)
+This folder contains practical exercises completed throughout the course.
+#### Past Exams  
+    * 📁[Past Exams](./Past%20Exams)
+  Collection of exam papers from previous academic years, used for practice and revision.
+  
+#### ClassWork  
+  * 📁 [Classwork](./ClassWork)
+This folder contains practical exercises completed in class.
 
-This repository contains the different projects and practical exercises developed throughout the course.
-
-The projects cover a variety of problems and applications. The repository also contains exercises, exam practices, and smaller programming assignments completed throughout the course.
 
 ### 🧩 Main Concepts
 
